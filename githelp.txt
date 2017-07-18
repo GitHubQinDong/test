@@ -47,3 +47,4 @@ https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b
 9	myeclipse egit插件	help -> about myeclipse...-> intall details -> eclipse platform	(10对应为3.7.0)	
 			egit官网下载插件	
 			myeclipse 根目录下的dropins下新建 egit,将解压后后文件放入此文件夹
+Creating a new branch is quick AND simple.
